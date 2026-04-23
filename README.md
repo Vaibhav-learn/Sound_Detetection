@@ -1,11 +1,9 @@
 # PVR Lab Project — Underwater Vessel Noise Classification (ShipsEar / QiandaoEar22)
 
 ## Group Members
-- Member 1: [Name] — SAP ID: XXXX
-- Member 2: [Name] — SAP ID: XXXX
-- Member 3: [Name] — SAP ID: XXXX
-- Member 4: [Name] — SAP ID: XXXX
-
+- Member 1: [Vaibhav Balwant Singh] — SAP ID: 500122528
+- Member 2: [Mann Rana] — SAP ID: 500120528
+- Member 3: [Mohammad Asad Saifi] — SAP ID: 500120661
 ---
 
 ## Dataset
