@@ -12,7 +12,6 @@
 - **GitHub:** https://github.com/xiaoyangdu22/QiandaoEar22
 - **Papers:** https://arxiv.org/abs/2406.04354 | https://arxiv.org/abs/2406.04353v1
 - **Classes:** SpeedBoat · KaiYuan · UUV · noise_target
-- **Google Drive (raw data):** [PASTE YOUR DRIVE LINK HERE]
 
 > The notebook auto-downloads the dataset via `git clone` on first run.  
 > If cloning fails, synthetic data is generated automatically as a fallback.
